@@ -9,7 +9,7 @@
 {
     width: 100%;
     height: 100vh;
-    background-image: url(samimages/bg.jpg);
+    background-image: url(sinimages/bg.jpg);
     background-size: cover;
     background-position: center;
     filter:blur(3px);
